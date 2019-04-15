@@ -2,11 +2,6 @@
 
 /* BASE */
 
-@font-face {
-    font-family: 'LetterGothicStd';
-    src: url('LetterGothicStd.otf');
-}
-
 
 body {
   font-size: 16px;
@@ -18,7 +13,7 @@ body {
   width: 100vw;
   min-height: 100vh;
   overflow-x: hidden;
-  font-family: LetterGothicStd; /* Your main typeface */
+  font-family: letter gothic std; /* Your main typeface */
   color: black;            /* Your main text color */
   background-color: white; /* Your main background color */
 }
@@ -45,7 +40,7 @@ header {
 }
 section {
   display: block;
-  margin:  0;
+  margin: 0;
   padding: 0;
 }
 
@@ -54,7 +49,7 @@ nav {
   position: fixed;
   z-index: 1;
   margin: 0;
-  padding: 1em 0.25em 0.25em 0.25em;
+  padding: 5em 0.25em 0.25em 0.25em;
   width: 100vw;
   height: 3em;
   top: 0;
@@ -76,9 +71,9 @@ nav {
   cursor: pointer;
 }
 nav a {
- display: column;
-  padding: 1em;
-  margin: 2em;
+  display: block;
+  padding: 2em;
+  margin: 1em;
 }
 
 
