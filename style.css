@@ -1,0 +1,197 @@
+/* SITE: WILLIAM GIBSON */
+
+/* BASE */
+
+
+body {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.3;
+  margin: 20px;
+  padding: 20px;
+  max-width: 100vw;
+  width: 100vw;
+  min-height: 100vh;
+  overflow-x: hidden;
+  font-family: letter gothic std; /* Your main typeface */
+  color: black;            /* Your main text color */
+  background-color: white; /* Your main background color */
+}
+img {
+  max-width: 100%;
+  height: auto;
+  padding: 10px;
+}
+main {
+  display: block;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  z-index: 0;
+}
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  width: 100vw;
+  height: 3em;
+  margin: 0;
+}
+section {
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+/* NAVIGATION */
+nav {
+  position: fixed;
+  z-index: 1;
+  margin: 0;
+  padding: 5em 0.25em 0.25em 0.25em;
+  width: 100vw;
+  height: 3em;
+  top: 0;
+  left: 0;
+  text-align: right;
+  height: 6em;
+  transform: translateY(-6em);
+  opacity: 0;
+  transition: transform 0.3s;
+}
+.nav-active nav {
+  opacity: 1;
+  transform: translateY(0);
+}
+.menu-toggle {
+  position: absolute;
+  top: 1em;
+  right: 3em;
+  cursor: pointer;
+}
+nav a {
+  display: column;
+  padding: 3em;
+}
+
+
+
+.outline {
+  position:center;
+    left:0;
+    top:0;
+}
+
+
+.trigger {
+  position: fixed;
+  bottom: 2em;
+  right: 2em;
+  width: 1.5em;
+  height: 1.5em;
+  cursor: pointer;
+  padding: 0;
+  background-color: yellow;
+  color: black;
+  line-height: 1.4;
+  border-radius: 50%;
+    font-size: 1.25em;
+    text-align: center;
+    vertical-align: middle;
+    transition: all 1s ease;
+    box-shadow: 2px 2px 6px rgba(0,0,0,0);
+}
+.trigger:hover {
+  box-shadow: 1px 1px 6px rgba(0,0,0,0.75);
+}
+
+#zoom .trigger {
+  transform: rotate(135deg);
+}
+
+
+
+
+
+/* TYPOGRAPHY */
+a {
+  text-decoration: none;
+  color: blue;             /* Your main link color */
+}
+p {
+  margin: 0 0 1em 0;
+  max-width: 40em;
+}
+h1 {
+
+}
+h2 {
+
+}
+h3 {
+
+}
+h4 {
+
+}
+h5 {
+
+}
+h6 {
+
+}
+
+
+/* GRID */
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.column {
+  width: 100%;
+  padding: 0.25em;
+}
+
+div.a {
+  font-size: 9px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+  padding: 5px;
+}
+
+#page-wrap {
+    width: 1280px;
+    shape-margin: 20px;
+}
+
+
+
+
+
+
+
+
+/* MEDIA QUERIES */
+@media (min-width: 40em) {
+  .column {
+    width: 50%;
+  }
+}
+/* Include any other media queries you may need here! */
+
+
+
