@@ -44,7 +44,7 @@ header {
   margin: 0;
 }
 section {
-  display: column;
+  display: block;
   margin: 0;
   padding: 0;
 }
