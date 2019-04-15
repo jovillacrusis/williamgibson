@@ -3,7 +3,7 @@
 /* BASE */
 
 @font-face {
-    font-family: 'Letter Gothic';
+    font-family: 'LetterGothicStd';
     src: url('LetterGothicStd.otf');
 }
 
@@ -18,7 +18,7 @@ body {
   width: 100vw;
   min-height: 100vh;
   overflow-x: hidden;
-  font-family: letter gothic std; /* Your main typeface */
+  font-family: LetterGothicStd; /* Your main typeface */
   color: black;            /* Your main text color */
   background-color: white; /* Your main background color */
 }
@@ -44,7 +44,7 @@ header {
   margin: 0;
 }
 section {
-  display: block;
+  display: column;
   margin: 0;
   padding: 0;
 }
