@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<head>
+  <title>Books | William Gibson</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="style.css" rel="stylesheet">
+</head>
+<body>
+<div id="page-wrap">
+  <header>
+    <div class="menu-toggle">Menu</div>
+  </header>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="info.html">Info</a>
+    <a href="books.html">Books</a>
+  </nav>
+  <main>
+
+  <h1>Books by William Gibson</h1>
+<div class="a">
+<div class="row"> 
+  <div class="column">
+    <img src="images/agency.jpg" alt="" style="width:50%" align="left"/>
+    <br>
+    <br>
+    <p>In William Gibson’s first novel since 2014, a sequel to his New York Times bestselling The Peripheral, a gifted “app-whisperer” is hired by a mysterious San Francisco start-up and finds herself in contact with a unique and surprisingly combat-savvy AI.</p>
+  </div>
+  <div class="column">
+    <img src="images/archangel.jpg" alt="Archangel" style="width:50%" align="left"/>
+    <br>
+    <br>
+    <p>The political leaders of 2016 have destroyed the world. Now they want a bright new reality to corrupt.
+    To do it, they’ll abuse the power of humanity’s last hope: the Splitter, a colossal machine that will allow them to travel back into the past to entrench their hold on the future.</p>
+  </div>
+  <div class="column">
+    <img src="images/peripheral.jpg" alt="The Peripheral" style="width:50%" align="left"/>
+    <br>
+    <br>
+    <p>Flynne Fisher lives down a country road, in a rural America where jobs are scarce. Wilf Netherton lives in London, seventy-some years later, decades of slow-motion apocalypse.Flynne and Wilf are about to meet one another. Her world will be altered utterly, irrevocably, and Wilf will learn that some of these third-world types from the past can be badass.</p>
+  </div>
+  <div class="column">
+    <img src="images/distrust.jpg" alt="Distrust That Particular Flavor" style="width:50%" align="left"/>
+    <br>
+    <br>
+    <p>These are essays and articles that has never been collected—until now. Some have never appeared in print at all. Distrust That Particular Flavor also includes journalism from small publishers, online sources, and magazines no longer in existence. This volume is essential reading for any lover of William Gibson’s novels.</p>
+  </div>
+</div>
+<div class="row"> 
+  <div class="column">
+    <img src="images/zerohistory.png" alt="" style="width:50%" align="left"/>
+    <br>
+    <br>
+    <p>Hollis Henry worked for the global marketing magnate Hubertus Bigend once before. She never meant to repeat the experience. But she’s broke, and Bigend never feels it’s beneath him to use whatever power comes his way — in this case, the power of money to bring Hollis onto his team again. Not that she knows what the “team” is up to, not at first.</p>
+  </div>
+  <div class="column">
+    <img src="images/spook.jpg" alt="" style="width:50%" align="left"/>
+    <br>
+    <br>
+    <p>Spook Country is the perfect follow-up to Pattern Recognition, which was called by The Washington Post (among many glowing reviews), “One of the first authentic and vital novels of the twenty-first century.”</p>
+  </div>
+  <div class="column">
+    <img src="images/pattern.jpg" alt="" style="width:50%" align="left"/>
+    <br>
+    <br>
+    <p>Cayce Pollard is an expensive, spookily intuitive market-research consultant. In London she is offered a secret assignment: investigate some intriguing snippets of video that have been appearing on the Internet. An entire subculture of people obsessed with these bits of footage, anyone who can create that kind of brand loyalty would be a gold mine for Cayce’s client. When her apartment is burgled and her computer hacked, she realizes there’s more to this project than she had expected.</p>
+  </div>
+  <div class="column">
+    <img src="images/alltomorrow.jpg" alt="" style="width:50%" align="left"/>
+    <br>
+    <br>
+    <p>Colin Laney, sensitive to patterns of information like no one else on earth, currently resides in a cardboard box in Tokyo. His body shakes with fever dreams, but his mind roams free as always, and he knows something is about to happen. Not in Tokyo; he will not see this thing himself. Something is about to happen in San Francisco.</p>
+  </div>
+</div>
+
+<div class="row"> 
+  <div class="column">
+    <img src="images/idoru.jpg" alt="" style="width:50%" align="left"/>
+    <br>
+    <br>
+    <p>The author of the ground-breaking science-fiction novels Neuromancer and Virtual Light returns with a fast-paced, high-density, cyber-punk thriller. As prophetic as it is exciting, Idoru takes us to 21st century Tokyo where both the promises of technology and the disasters of cyber-industrialism stand in stark contrast, where the haves and the have-nots find themselves walled apart, and where information and fame are the most valuable and dangerous currencies.</p>
+  </div>
+  <div class="column">
+    <img src="images/virtual.jpg" alt="" style="width:50%" align="left"/>
+    <br>
+    <br>
+    <p>The millennium has come and gone, leaving in its wake only stunned survivors. In Los Angeles, Berry Rydell is a former armed-response rentacop now working for a bounty hunter. Chevette Washington is a bicycle messenger turned pickpocket who impulsively snatches a pair of innocent-looking sunglasses. But these are no ordinary shades. What you can see through these high-tech specs can make you rich—or get you killed. </p>
+  </div>
+  <div class="column">
+    <img src="images/difference.jpg" alt="" style="width:50%" align="left"/>
+    <br>
+    <br>
+    <p>Part detective story, part historical thriller, The Difference Engine is the collaborative masterpiece by two of the most acclaimed science fiction authors writing today.  Provocative, compelling, intensely imagined, it is a startling extension of Gibson’s and Sterling’s unique visions—and the beginning of movement we know today as “steampunk!”</p>
+  </div>
+  <div class="column">
+    <img src="images/monalisa.jpg" alt="" style="width:50%" align="left"/>
+    <br>
+    <br>
+    <p>Into this world comes Mona, a young girl with a murky past and an uncertain future whose life is on a collision course with internationally famous Sense/Net star Angie Mitchell. Since childhood, Angie has been able to tap into cyberspace without a computer. Now, from inside cyberspace, a kidnapping plot is masterminded by a phantom entity who has plans for Mona, Angie, and all humanity, plans that cannot be controlled or even known, behind the intrigue lurks the shadowy Yakuza of the Japanese underworld.</p>
+  </div>
+</div>
+
+<div class="row"> 
+  <div class="column">
+    <img src="images/countzero.jpg" alt="" style="width:50%" align="left"/>
+    <br>
+    <br>
+    <p>A corporate mercenary wakes in a reconstructed body, a beautiful woman by his side. Then Hosaka Corporation reactivates him, for a mission more dangerous than the one he’s recovering from: to get a defecting chief of R&D—and the biochip he’s perfected—out intact. But this proves to be of supreme interest to certain other parties—some of whom aren’t remotely human…</p>
+  </div>
+  <div class="column">
+    <img src="images/burningchrome.jpg" alt="" style="width:50%" align="left"/>
+    <br>
+    <br>
+    <p>These brilliant, high-resolution stories show Gibson’s characters and intensely-realized worlds at his absolute best, from the chip-enhanced couriers of “Johnny Mnemonic” to the street-tech melancholy of “Burning Chrome.”</p>
+  </div>
+  <div class="column">
+    <img src="images/neuromancer.jpg" alt="" style="width:50%" align="left"/>
+    <br>
+    <br>
+    <p>Winner of the Hugo, Nebula, and Philip K. Dick Awards, Neuromancer is a science fiction masterpiece—a classic that ranks as one of the twentieth century’s most potent visions of the future. Neuromancer was the first fully-realized glimpse of humankind’s digital future—a shocking vision that has challenged our assumptions about technology and ourselves, reinvented the way we speak and think, and forever altered the landscape of our imaginations.</p>
+  </div>
+  <div class="column">
+    <img src="images/filler.jpg" alt="" style="width:50%">
+  </div>
+</div>
+</div>
+
+
+
+
+
+
+  </main>
+  <script src="script.js"></script>
+</div>
+</body>
