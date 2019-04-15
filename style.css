@@ -71,13 +71,14 @@ nav {
 }
 .menu-toggle {
   position: absolute;
-  top: 1em;
+  top: 4em;
   right: 3em;
   cursor: pointer;
 }
 nav a {
-  display: column;
-  padding: 3em;
+ display: block;
+  padding: 1em;
+  margin: 4em;
 }
 
 
