@@ -2,6 +2,11 @@
 
 /* BASE */
 
+@font-face {
+    font-family: 'Letter Gothic';
+    src: url('LetterGothicStd.otf');
+}
+
 
 body {
   font-size: 16px;
