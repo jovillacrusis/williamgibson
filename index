@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<head>
+  <title>William Gibson</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="style.css" rel="stylesheet">
+</head>
+<body>
+<div id="page-wrap">
+  <header>
+    <img src="images/wgibson.png" alt="" width="600" height="450" class="center">
+    <div class="menu-toggle">Menu</div>
+  </header>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="info.html">Info</a>
+    <a href="books.html">Books</a>
+  </nav>
+  </main>
+
+  <div class="WGibson"></div>
+  <div class="trigger"></div>
+  <audio src="media/interview.mp3"/>
+
+  <script src="script.js"></script>
+</div>
+</body>
